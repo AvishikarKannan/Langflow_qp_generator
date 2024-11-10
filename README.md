@@ -1,4 +1,4 @@
-Question Paper Generator - No Code Langflow Project
+Question Paper Generator - No Code Langflow Project \n
 This repository contains a no-code Langflow project designed to generate question papers using a Retrieval-Augmented Generation (RAG) model. This project utilizes the Gemini Large Language Model (LLM) along with Mistral embeddings and vector database storage via DataStax AstraDB.
 
 Project Overview
@@ -14,10 +14,6 @@ Reusable Input: Accepts previously generated question papers as input, ensuring 
 Efficient Question Generation: Powered by RAG, this tool combines retrieval and generative capabilities for accurate question paper generation.
 
 Getting Started
-Clone this repository:
-
-git clone https://github.com/AvishikarKannan/question-paper-generator.git
-cd question-paper-generator
 
 Set up dependencies:
 
